@@ -7,9 +7,15 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:KIDnappers-we-put-kids-to-sleep/Assets/Infima Games/Low Poly Shooter Pack - Free Sample/Art/Materials/Effects/M_Impact_Concrete.mat
   m_Name: M_Impact_Concrete
   m_Shader: {fileID: 208, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
+========
+  m_Name: V
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP
+>>>>>>>> b95819fdf72e0fe475273de956e3ff91f5845cbf:KIDnappers-we-put-kids-to-sleep/Assets/Invector-3rdPersonController_LITE/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/V.mat
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -20,7 +26,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
+<<<<<<<< HEAD:KIDnappers-we-put-kids-to-sleep/Assets/Infima Games/Low Poly Shooter Pack - Free Sample/Art/Materials/Effects/M_Impact_Concrete.mat
         m_Texture: {fileID: 0}
+========
+        m_Texture: {fileID: 2800000, guid: 2a0eccb177040f8499cd6b9b93c1b142, type: 3}
+>>>>>>>> b95819fdf72e0fe475273de956e3ff91f5845cbf:KIDnappers-we-put-kids-to-sleep/Assets/Invector-3rdPersonController_LITE/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/V.mat
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -40,11 +50,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<<< HEAD:KIDnappers-we-put-kids-to-sleep/Assets/Infima Games/Low Poly Shooter Pack - Free Sample/Art/Materials/Effects/M_Impact_Concrete.mat
         m_Texture: {fileID: 2800000, guid: e676fea0225b9c74f97851005f7cc31a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
+========
+        m_Texture: {fileID: 2800000, guid: ca03125eedefcea41ae3d8ec84727974, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 4fdcea940fe428e48a47573a35440a15, type: 3}
+>>>>>>>> b95819fdf72e0fe475273de956e3ff91f5845cbf:KIDnappers-we-put-kids-to-sleep/Assets/Invector-3rdPersonController_LITE/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/V.mat
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -74,8 +92,12 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<<< HEAD:KIDnappers-we-put-kids-to-sleep/Assets/Infima Games/Low Poly Shooter Pack - Free Sample/Art/Materials/Effects/M_Impact_Concrete.mat
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmisColor: {r: 1, g: 1, b: 1, a: 0}
+========
+    - _Color: {r: 0.09803922, g: 0.09803922, b: 0.09803922, a: 1}
+>>>>>>>> b95819fdf72e0fe475273de956e3ff91f5845cbf:KIDnappers-we-put-kids-to-sleep/Assets/Invector-3rdPersonController_LITE/3D Models/Characters/Invector@V-Bot 2.0/Material/Custom/V.mat
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _TintColor: {r: 0.7352941, g: 0.7352941, b: 0.7352941, a: 0.5}
   m_BuildTextureStacks: []
